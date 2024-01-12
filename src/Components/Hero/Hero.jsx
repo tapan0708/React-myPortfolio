@@ -67,7 +67,7 @@ function Hero() {
                     </div> */}
                 </motion.div>
                 <motion.div className="img-container h100" variants={variantsRightSide} initial="initial" whileInView="whileInView">
-                    <img src="./hero-img.svg" alt="Hero" className='w100 h100' />
+                    <img src="hero-img.svg" alt="Hero" className='w100 h100' />
                 </motion.div>
             </div>
         </div>

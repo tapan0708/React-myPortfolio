@@ -18,7 +18,7 @@ function Parallax({ type }) {
                 {type === "Services" ? "What I do?" : "what I did?"}
                 <motion.div variants={variants} className="text-center">
                     <a href="#Services">
-                        <img src="/scroll.png" alt="scroll" />
+                        <img src="scroll.png" alt="scroll" />
                     </a>
                 </motion.div>
             </motion.h1>

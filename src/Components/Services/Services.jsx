@@ -26,7 +26,7 @@ function Services() {
                 </div>
                 <div className="title-container">
                     <div className="title">
-                        <img src="/people.webp" alt="people" />
+                        <img src="people.webp" alt="people" />
                         <h1> <b>Crafting </b> Code </h1>
                     </div>
                     <div className="title">

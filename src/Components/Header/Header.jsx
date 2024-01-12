@@ -9,16 +9,16 @@ function Header() {
                 <span>Portfolio</span>
                 <div className="social-links">
                     <a href="https://www.linkedin.com/in/tapan-vyas-a47b101b1/" target="_blank" rel="noopener noreferrer">
-                        <img src="/linkedIn.svg" alt="youtube" className="scale-img" />
+                        <img src="linkedIn.svg" alt="youtube" className="scale-img" />
                     </a>
                     <a href="http://" target="_blank" rel="noopener noreferrer">
-                        <img src="/facebook.png" alt="facebook" />
+                        <img src="facebook.png" alt="facebook" />
                     </a>
                     <a href="http://" target="_blank" rel="noopener noreferrer">
-                        <img src="/instagram.png" alt="instagram" />
+                        <img src="instagram.png" alt="instagram" />
                     </a>
                     <a href="http://" target="_blank" rel="noopener noreferrer">
-                        <img src="/youtube.png" alt="youtube" />
+                        <img src="youtube.png" alt="youtube" />
                     </a>
                 </div>
             </div>
