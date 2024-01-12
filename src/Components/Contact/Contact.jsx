@@ -64,6 +64,7 @@ function Contact() {
                     </div>
                 </form>
             </div>
+            <br />
         </motion.div>
     )
 }

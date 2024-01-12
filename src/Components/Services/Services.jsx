@@ -20,7 +20,7 @@ function Services() {
             <motion.div className="flex-container" variants={variants} initial="initial" whileInView="whileInView" >
                 <div className="text-container">
                     <p>I focus on helping your brand grow
-                        <br /> and move forward
+                        <br /> <span>and move forward</span>
                     </p>
                     <hr />
                 </div>
